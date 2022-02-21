@@ -9,6 +9,7 @@ brief: "Wir implementieren die MLS-Bibliothek für sichere Kommunikation."
 summary: "OpenMLS ist eine quelloffene Implementierung des MLS-Protokolls in Rust."
 ---
 
+![Tree](tree.svg)
 ## Einleitung
 
 In den 90er Jahren wurde der Begriff "Ende-zu-Ende-Verschlüsselung" zum ersten mal durch die PGP Emailverschlüsselung geprägt. Das Internet stand noch ganz am Anfang, aber es wurde schnell klar, dass Verschlüsselung eine immer größere Rolle im zivilen Bereich spielen würde (bis dahin war sie vornehmlich dem militärischen Bereich vorbehalten).
