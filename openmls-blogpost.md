@@ -59,3 +59,7 @@ Zum Zeitpunkt des Schreibens ist OpenMLS in Version 0.4 veröffentlicht. Das API
 Im derzeitigen Stand kann OpenMLS bereits verwendet werden für die experimentelle Integration in bestehende und neue Projekte. [Erste Versuche laufen bereits bei dem sicheren Messenger Wire](https://thestack.technology/messaging-layer-security-is-coming-of-age/), sowie bei der [dezentralen und sicheren Datenbank p2panda](https://p2panda.org/). Weitere Projekte sind geplant, sobald die Spezifikation des Protokolls sich stabilisiert hat.
 
 Ziel des Projekts ist es, dass bei entsprechendem Bedarf die Bibliothek weiterentwickelt wird, an Änderungen des Spezifikation angepasst wird und die Sicherheit und Robustheit durch mehr Testing, Refactoring und Pflege des Codes zu erhöht wird.
+
+---
+
+Wir bedanken uns beim Bundesministerium für Bildung und Forschung und beim Deutschen Zentrum für Luft- und Raumfahrt für die Unterstützung!
