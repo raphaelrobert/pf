@@ -62,4 +62,4 @@ Ziel des Projekts ist es, dass bei entsprechendem Bedarf die Bibliothek weiteren
 
 ---
 
-Wir bedanken uns beim Bundesministerium für Bildung und Forschung und beim Deutschen Zentrum für Luft- und Raumfahrt für die Unterstützung!
+Wir bedanken uns beim Bundesministerium für Bildung und Forschung, dem Deutschen Zentrum für Luft- und Raumfahrt und dem Prototype Fund für die Unterstützung!
